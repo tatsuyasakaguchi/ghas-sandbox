@@ -1,0 +1,14 @@
+{
+  "name": "ghas-sandbox",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Intentionally vulnerable sandbox for testing GitHub Advanced Security",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "lodash": "4.17.4",
+    "minimist": "1.2.0"
+  }
+}
